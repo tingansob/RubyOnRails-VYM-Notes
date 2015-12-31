@@ -1,0 +1,41 @@
+30: {text: "As the new year approaches I wonder what lie ahead. Here, outside my window
+    the incessant sound of gentrification and progress while I try to find the intersection
+    of code and spirit. Where is the place of programming in the life of an urban
+    shaman? Is there a path to enlightenment to be found on the command line. \n\nSo----what
+    do I do first. Where does one begin such a process? I guess I’d want to start
+    with looking to see what was available. Somewhere in the identification of what
+    resources are present and in what quantities I might gleen some idea of where
+    I should or could look. Ruby on Rails was where I began. I had heard that from
+    a number of YouTube resources *ADDLINKS that Ruby was a very easy language to
+    learn and that Ruby on Rails was fast and efficient in the process of designing
+    and developing web applications.\n\nSo, perhaps some background is in order. How
+    did I get into technology? My father has always been very pragmatic and he wanted
+    to teach me how to make good, sound choices when spending money, in particular..his.
+    I had just graduated from Elementary school and the year following my commencement
+    the school introduced computers to their ciricculum. I missed it but that didn’t
+    dim my light. \n\nMy desire for unerstanding math was challenged by my teachers
+    ability to translate math into relevant language. They couldn’t put numbers into
+    strings so to speak. that may not make sense yet but that’s the whole point isn’t
+    it. Understanding evolves if we continue to follow the stream..the way, get out
+    of your own WAY. Perhaps the way to do this is to just get ouf of \nWednesday,
+    12/30/2015 08:15:21 AM\n\nSorry about that - I decided to keep it consistent -
+    so I added a RedNotebook Journal to this folder so I can see how I might incorporate
+    this into my design flow.\n\nThere are  a lot of features in RedNotebook that
+    could be quite handy in the creation of a #ROR application\n\nMath --- Wednesday,
+    12/30/2015 08:18:16 AM - It was hard for me to understand math at times, not because
+    I couldn't comprehend the concepts and theorems it was a lack of discipline. I
+    had such an easy comprehension of language that I became complacent with my math
+    skills and didn't create enough routine. Math is a language and it has to be practiced
+    like any other language if you're going to understand it. #math #stem #elementaryschoolbasics
+    #mathiseverything It's not impossible to think that we're unable to find better
+    ways to communicate about math. I think I want to look into this common core math
+    a bit more and see just how they are guiding children to find logical solutions
+    to this world. \n\nMath was always something that required practice. Memorization
+    was mistaken as the goal, say trying to remember a #multiplication table or a
+    method. It was easier, for me at least, to remember how to do find solutions and
+    what the implications would be. To think of it in #unix #unixprogramphilosophy
+    terms of how you structure your applications, **always design with the idea that
+    your output will be another applications input**.\n\n#personalthought I have to
+    decide how committed I am to school. A #CS degree path would mean a lot of #highlevelmath
+    classes that I may not be prepared for. I also want to be true to the #artistinme
+    and follow my hearts desire of the creation of art. \n\n"}
